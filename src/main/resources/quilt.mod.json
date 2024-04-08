@@ -8,13 +8,13 @@
 			"name": "Finite Water",
 			"description": "Removes infinite water sources from Minecraft",
 			"contributors": {
-				"Your name here": "Owner"
+				"Raeeeee (Rae Johnston)": "Owner"
 			},
 			"contact": {
 				"issues": "https://github.com/Tors-0/finite-water/issues",
 				"sources": "https://github.com/Tors-0/finite-water"
 			},
-			"icon": "assets/example_mod/icon.png"
+			"icon": "assets/finite_water/icon.png"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
